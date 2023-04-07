@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      database: Emergencia
+      host: baseMongo
+      port: 27017
+

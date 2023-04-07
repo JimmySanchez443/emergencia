@@ -1,0 +1,7 @@
+com\emergencia\demo\modelo\Persona.class
+com\emergencia\demo\repository\EmergenciaRepository.class
+com\emergencia\demo\DemoApplication.class
+com\emergencia\demo\modelo\Emergencia.class
+com\emergencia\demo\repository\PersonaRepository.class
+com\emergencia\demo\controller\EmergenciaController.class
+com\emergencia\demo\controller\PersonaController.class
